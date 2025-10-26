@@ -58,14 +58,14 @@ const Services = () => {
       icon: Package,
       title: "Foiling",
       description: "Luxurious metallic finishing touches",
-      image: "./1280_HHP-3.webp",
+      image: "./WhatsApp Image 2025-10-25 at 21.07.51.jpeg",
       color: "from-amber-500 to-yellow-500",
     },
     {
       icon: Printer,
       title: "Customise Notebook",
       description: "Design your perfect writing companion",
-      image: "./black-floral.jpg",
+      image: "./WhatsApp Image 2025-10-25 at 21.07.58.jpeg",
       color: "from-violet-500 to-purple-500",
     },
     {
