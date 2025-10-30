@@ -1,14 +1,9 @@
 import React, { useEffect, useState } from "react";
 import {
-  Printer,
-  Clock,
   Mail,
   Phone,
   MapPin,
-  ChevronDown,
-  Award,
-  Users,
-  Palette,
+
 } from "lucide-react";
 import Hero from "./components/Hero";
 import AboutUs from "./components/AboutUs";
@@ -16,7 +11,7 @@ import Services from "./components/Services";
 import WhyChooseUs from "./components/WhyChooseUs";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
-
+//new update
 function App() {
   const [scrolled, setScrolled] = useState(false);
 
